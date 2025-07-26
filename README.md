@@ -1,6 +1,6 @@
 ## **Hi there** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" style="vertical-align:middle" />
 
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Space!)
 
 ## 💡 Source Code of Me
 
