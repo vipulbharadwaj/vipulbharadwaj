@@ -19,7 +19,7 @@
 </p>
 
 ## 🌐 Socials
-<p align="left"> <a href="https://www.github.com/vipulbharadwaj" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" width="32" height="32" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/vipul-chaudhary-845765" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </a> </p>
+<p align="left"> <a href="https://www.github.com/vipulbharadwaj" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" width="32" height="32" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/vipul-chaudhary-845765" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </a> </p>
 
 
 <p align="center">
